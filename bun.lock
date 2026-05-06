@@ -5,12 +5,12 @@
     "": {
       "name": "vite-tailwind-js-template",
       "dependencies": {
-        "@tailwindcss/vite": "^4.2.2",
-        "tailwindcss": "^4.2.2",
+        "@tailwindcss/vite": "^4.2.4",
+        "tailwindcss": "^4.2.4",
       },
       "devDependencies": {
         "@biomejs/biome": "2.4.10",
-        "vite": "^8.0.8",
+        "vite": "^8.0.10",
       },
     },
   },
